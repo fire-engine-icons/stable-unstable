@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="12" viewBox="0 0 90 12">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-SHARK_UNSTABLE);
+      }
+
+      .cls-2 {
+        fill: #08ff00;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 6px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: red;
+      }
+
+      .cls-5 {
+        fill: #3d3d3d;
+      }
+    </style>
+    <clipPath id="clip-SHARK_UNSTABLE">
+      <rect width="90" height="12"/>
+    </clipPath>
+  </defs>
+  <g id="SHARK_UNSTABLE" data-name="SHARK UNSTABLE" class="cls-1">
+    <rect class="cls-5" width="90" height="12"/>
+    <rect id="Rechteck_1" data-name="Rechteck 1" class="cls-2" width="45" height="12" transform="translate(45)"/>
+    <text id="SHARKBUILD" class="cls-3" transform="translate(5 8)"><tspan x="0" y="0">SHARKBUILD</tspan></text>
+    <rect id="Rechteck_2" data-name="Rechteck 2" class="cls-4" width="45" height="12" transform="translate(45)"/>
+    <text id="UNSTABLE" class="cls-3" transform="translate(54 8)"><tspan x="0" y="0">UNSTABLE</tspan></text>
+  </g>
+</svg>
