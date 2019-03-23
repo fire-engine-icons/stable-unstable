@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="39" viewBox="0 0 220 39">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-File);
+      }
+
+      .cls-2 {
+        fill: #707070;
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #2680eb;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #fff;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        font-size: 23px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-File">
+      <rect width="220" height="39"/>
+    </clipPath>
+  </defs>
+  <g id="File" class="cls-1">
+    <g id="Hintergrund">
+      <g id="Rechteck_1" data-name="Rechteck 1" class="cls-2">
+        <rect class="cls-6" width="99" height="39" rx="12"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="98" height="38" rx="11.5"/>
+      </g>
+      <g id="side" transform="translate(-16)">
+        <rect id="Rechteck_2" data-name="Rechteck 2" class="cls-3" width="130" height="39" rx="11" transform="translate(106)"/>
+        <rect id="Rechteck_3" data-name="Rechteck 3" class="cls-3" width="27" height="39" transform="translate(106)"/>
+      </g>
+    </g>
+    <text id="BUILD" class="cls-4" transform="translate(17 28)"><tspan x="0" y="0">BUILD</tspan></text>
+    <text id="COMPLETE" class="cls-5" transform="translate(104 28)"><tspan x="0" y="0">COMPLETE</tspan></text>
+  </g>
+</svg>
